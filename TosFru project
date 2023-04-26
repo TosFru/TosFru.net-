@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>JoJo's Bizarre Adventure Website</title>
+	<style>
+		body {
+			background-image: url("https://i.imgur.com/5v2JxHE.jpg");
+			background-repeat: repeat;
+			background-position: center;
+			background-attachment: fixed;
+			background-color: #7b42a1;
+			font-family: "Cinzel", serif;
+			color: #fff;
+			font-size: 24px;
+			line-height: 1.5;
+			margin: 0;
+			padding: 0;
+		}
+		h1 {
+			font-size: 48px;
+			margin-top: 50px;
+			text-align: center;
+		}
+		p {
+			margin: 20px;
+		}
+	</style>
+	<link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet">
+</head>
+<body>
+	<header>
+		<h1>Welcome to the World of JoJo's Bizarre Adventure</h1>
+	</header>
+	<main>
+		<p>Get ready for an epic journey through a world where anything is possible. From the desert sands of Egypt to the streets of Japan, the Joestar family has fought against evil for generations, using their unique powers to protect the innocent and defeat their enemies.</p>
+		<p>With each new adventure comes new challenges and new foes, but the Joestars are always ready to face them head on. Whether it's battling vampires, stopping a corrupt corporation, or even traveling through time itself, nothing can stop the Joestars from achieving their goals.</p>
+		<p>So join us on this wild ride, and see for yourself why JoJo's Bizarre Adventure has captured the hearts of fans around the world. With its unforgettable characters, incredible action, and epic storylines, it's a journey you won't want to miss.</p>
+	</main>
+</body>
+</html>
